@@ -1,1 +1,83 @@
-Nhớ giữ credit nhé!
+[
+	{
+		"key": "datr",
+		"value": "L_oGaiCJWHsbJlbMX4ozEooh",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-15T10:51:43.358Z",
+		"lastAccessed": "2026-05-15T10:51:43.358Z"
+	},
+	{
+		"key": "sb",
+		"value": "L_oGaqg6wBBnLTM3RLgk6cY3",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-15T10:51:43.358Z",
+		"lastAccessed": "2026-05-15T10:51:43.358Z"
+	},
+	{
+		"key": "m_pixel_ratio",
+		"value": "2.6004648208618164",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-15T10:51:43.358Z",
+		"lastAccessed": "2026-05-15T10:51:43.358Z"
+	},
+	{
+		"key": "dpr",
+		"value": "2.8590729236602783",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-15T10:51:43.358Z",
+		"lastAccessed": "2026-05-15T10:51:43.358Z"
+	},
+	{
+		"key": "wd",
+		"value": "685x1264",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-15T10:51:43.358Z",
+		"lastAccessed": "2026-05-15T10:51:43.358Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100014106194171",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-15T10:51:43.358Z",
+		"lastAccessed": "2026-05-15T10:51:43.358Z"
+	},
+	{
+		"key": "xs",
+		"value": "49%3AqTy-qnjSEiqLDg%3A2%3A1778842264%3A-1%3A-1%3A%3AAczYMbuie_GtzH2GfqkB4A-Q-qtUumG65lA8zUHTVg",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-15T10:51:43.358Z",
+		"lastAccessed": "2026-05-15T10:51:43.358Z"
+	},
+	{
+		"key": "presence",
+		"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1778842276968%2C%22v%22%3A1%7D",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-15T10:51:43.358Z",
+		"lastAccessed": "2026-05-15T10:51:43.358Z"
+	},
+	{
+		"key": "fr",
+		"value": "1uYD64ZeU32K1jUzt.AWegjjTr_4YBKYFb4ugxyjlgmlO4Kxb2XJN8Zu5u_SuORC6Dq8o.BqBvqi..AAA.0.0.BqBvq5.AWcBdIcaZ5aRcdHzvgcknDaBP74",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-15T10:51:43.358Z",
+		"lastAccessed": "2026-05-15T10:51:43.358Z"
+	}
+]
